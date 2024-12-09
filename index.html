@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ConquisTi</title>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+  <!-- Header -->
+  <header class="bg-primary text-white py-3 shadow">
+    <div class="container d-flex justify-content-between align-items-center">
+      <div class="logo">
+        <img src="images/conquisti.png" alt="Conquisti" height="40">
+      </div>
+      <a href="#" class="btn btn-outline-light" onclick="logout()">Logout</a>
+    </div>
+  </header>
+
+  <!-- Conteúdo Principal -->
+  <main class="container my-5">
+    <form id="articleForm" class="mb-4">
+      <div class="mb-3">
+        <input type="text" id="title" class="form-control" placeholder="Título" required />
+      </div>
+      <div class="mb-3">
+        <textarea id="content" class="form-control" placeholder="Descrição" required></textarea>
+      </div>
+      <button type="submit" id="createBtn" class="btn btn-success w-100">Criar</button>
+      <button type="button" id="editBtn" class="btn btn-warning w-100 mt-2 d-none">Editar</button>
+    </form>
+
+    <div class="articles mt-5">
+      <h2 class="mb-4">Artigos</h2>
+      <ul id="articlesList" class="list-group"></ul>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-primary text-white py-3">
+    <div class="container text-center">
+      <p>&copy; 2024 Conquisti Blog. Todos os direitos reservados.</p>
+    </div>
+  </footer>
+
+  <script src="js/bootstrap.bundle.min.js"></script>
+  <script src="index.js"></script>
+</body>
+
+</html>
