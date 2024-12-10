@@ -77,3 +77,29 @@ teste@example.com
 ## Autor
 
 Desenvolvido por Diego Franco.
+
+<!--
+
+5 Dicas para Melhorar o Desempenho de seu Código em JavaScript
+
+Escrever código JavaScript eficiente é essencial para garantir uma boa performance em suas aplicações. Aqui estão cinco dicas práticas: 1) Use let e const adequadamente para evitar problemas com variáveis globais. 2) Reduza a complexidade utilizando funções puras e evitando loops desnecessários. 3) Prefira métodos como map, filter e reduce para manipular arrays de forma funcional. 4) Minimize manipulações diretas no DOM, pois elas podem ser custosas. 5) Use ferramentas como Webpack para otimizar seu código. Aplique essas práticas e veja sua aplicação rodar de forma mais eficiente!
+
+---
+
+O Que São APIs RESTful e Por Que Usá-las?
+
+APIs RESTful são interfaces que permitem a comunicação entre diferentes sistemas usando os princípios REST (Representational State Transfer). Elas são amplamente utilizadas para conectar aplicativos front-end e back-end de maneira eficiente. Uma API bem construída segue práticas como usar verbos HTTP corretamente, organizar endpoints de forma intuitiva e retornar respostas claras e concisas. Se você está desenvolvendo sistemas modernos, entender e implementar APIs RESTful é essencial para criar aplicações escaláveis e modulares.
+
+---
+
+Como Escolher o Melhor Framework Front-End?
+
+A escolha do framework front-end certo pode ser um desafio para desenvolvedores. React, Angular e Vue.js são os mais populares, mas cada um tem características distintas. React é ideal para projetos que exigem flexibilidade e alta personalização. Angular oferece uma solução completa, incluindo ferramentas para desenvolvimento de ponta a ponta. Vue.js é leve, fácil de aprender e perfeito para iniciantes. Antes de decidir, avalie o escopo do projeto, o tamanho da equipe e o nível de experiência em JavaScript. A escolha certa pode acelerar o desenvolvimento e melhorar a manutenção do código.
+
+---
+
+Introdução ao Git: Controle de Versão para Equipes de Desenvolvimento
+
+Git é uma ferramenta essencial para gerenciar versões de código em equipes de desenvolvimento. Ele permite rastrear mudanças, colaborar de forma eficaz e evitar conflitos entre programadores. Com comandos simples como git init, git add e git commit, você pode criar repositórios e gerenciar alterações locais. Para trabalho em equipe, serviços como GitHub ou GitLab facilitam a hospedagem de repositórios remotos e o uso de pull requests para revisar e integrar código. Aprender Git é um passo fundamental para qualquer programador que deseje colaborar em projetos profissionais.
+
+-->
