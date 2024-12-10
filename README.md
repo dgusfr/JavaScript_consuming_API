@@ -69,3 +69,7 @@ A aplicação é dividida em duas páginas principais:
 │   ├── bootstrap.bundle.min.js
 └── img/
 ```
+
+## Autor
+
+Desenvolvido por Diego Franco.
