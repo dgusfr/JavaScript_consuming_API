@@ -70,6 +70,10 @@ A aplicação é dividida em duas páginas principais:
 └── img/
 ```
 
+<!-- Usuario teste
+teste@example.com
+123456 -->
+
 ## Autor
 
 Desenvolvido por Diego Franco.
