@@ -5,7 +5,7 @@ Este é um projeto front-end que consome uma API RESTful para gerenciar um blog.
 ## Interface
 
 <div align="center">
-  <img src="images/logo.png" alt="Imagem do Projeto" width="100">
+  <img src="images/logo.png" alt="Imagem do Projeto" width="900">
 </div>
 
 ## Sumário
