@@ -28,7 +28,7 @@ Este é um projeto front-end que consome uma API RESTful para gerenciar um blog.
     <img src="images/html.png" alt="Logo HTML" width="100"/>
   </div>
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
-    <img src="img/css.png" alt="Logo CSS" width="100"/>
+    <img src="images/css.png" alt="Logo CSS" width="100"/>
   </div>
 </div>
 
